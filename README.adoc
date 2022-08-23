@@ -1,0 +1,18 @@
+= ISO/TMB outcomes in machine-readable format
+
+WARNING: This repository is **NOT OFFICIALLY MANAGED BY ISO**. 
+There are no guarantees on accuracy of the content provided.
+
+== Purpose
+
+This repository provides machine-readable outcomes from the following groups:
+
+* ISO/TMB Technical Management Board
+
+All data obtained from official sources.
+
+
+== License
+
+Copyright ISO. Conversion performed by Ribose.
+
